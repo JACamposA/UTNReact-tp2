@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+th{
+    background-color: brown;
+    border: 2px solid rgb(1, 7, 7);
+    border-radius: 5%;
+}
+td {
+    border: 2px solid rgb(1, 7, 7);
+    border-radius: 5%;
+    background-color: rgb(185, 191, 194);
+  }
+table {
+    width: 100%;
+    min-height: 100%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.example{
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
